@@ -7,6 +7,12 @@ const port = 3000;
 db();
 
 
+var corsOptions = {
+    credentials: true,
+    origin: true
+    };
+
+
 
 
 
